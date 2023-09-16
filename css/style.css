@@ -709,7 +709,7 @@ input::placeholder {
 }
 
 
-/* Backdrop */
+/* ========= Backdrop ========= */
 
 .backdrop {
       opacity: 1;
@@ -855,7 +855,7 @@ input:focus+svg {
    border-color: #4D5AE5;
 }
 
-.checkbox-block {
+.container-checkbox {
    margin-bottom: 24px;
    display: flex;
    column-gap: 8px;
@@ -881,7 +881,7 @@ input:focus+svg {
    fill: #F4F4FD;
    background-color: #404bbf;
 }
-.castom-checkbox {
+.vector-castom-checkbox {
 }
 .link-user-privacy {
    color: #4d5ae5;
