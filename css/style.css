@@ -517,8 +517,7 @@ width: 264px;
 
 .basement{
    background-color: #2E2F42;
-   width: 1440px;
-   height: 312px;
+   padding: 100px 0;
 }
 
 .footer-logo{
@@ -542,7 +541,6 @@ width: 264px;
    justify-content: center;
    align-items: flex-start;
    margin-right: auto;
-   padding-top: 100px;
 }
 
 .footer-list{
@@ -635,7 +633,6 @@ width: 264px;
 
 .container-footer-form {
    display: block;
-   padding-left: 80px;
    max-width: 453px;
    flex-direction: column;
 }
